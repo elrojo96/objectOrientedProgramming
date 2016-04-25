@@ -1,0 +1,18 @@
+2		penDown
+5 15	forward
+3		right
+5 30	forward
+3		right
+5 4		forward
+3		right
+5 18	forward
+4		left
+5 5		forward
+3		right
+5 5		forward
+4		left
+5 6		forward
+3		right
+5 7		forward
+9		end
+

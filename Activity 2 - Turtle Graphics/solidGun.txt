@@ -1,0 +1,77 @@
+2		penDown
+5 12	forward
+3		right
+5 30	forward
+3		right
+5 1		forward
+3		right
+5 30	forward
+4		left
+5 1		forward
+4		left
+5 30	forward
+3		right
+5 1		forward
+3		right
+5 18	forward
+1		penUp
+5 5		forward
+2		penDown
+5 7		forward
+4		left
+5 1		forward
+4 		left
+5 6		forward
+1		penUp
+5 5		forward
+2		penDown
+5 1		forward
+3		right
+5 1		forward
+3		right
+1		penUp
+5 5		forward
+2       pendown
+5 7		forward
+4		left
+5 1		forward
+4 		left
+5 12	forward
+3		right
+3		right
+5 12	forward
+4		left
+5 1		forward
+4		left
+5 6		forward
+3		right
+5 1		forward
+3		right
+5 6		forward
+4		left
+5 1		forward
+4		left
+5 6		forward
+3		right
+5 1		forward
+3		right
+5 6		forward
+4		left
+5 1		forward
+4		left
+5 6		forward
+1		penup
+5 2		forward
+4		left
+5 9		forward
+2		penDown
+4		left
+4		left
+5 2		forward
+1		penup
+5 1		forward
+4		left
+2		penDown
+5 1		forward
+9		end
+
